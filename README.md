@@ -1,1 +1,1 @@
-# bitcrypt-token
+# Byncoin-token
