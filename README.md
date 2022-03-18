@@ -1,1 +1,1 @@
-# BYNCOIN-token
+# BYNCOIN-Token
