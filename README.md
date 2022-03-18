@@ -1,1 +1,1 @@
-# Byncoin-token
+# BYNCOIN-token
